@@ -1,0 +1,53 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]uild/
+[Oo]ut/
+*.exe
+*.dll
+*.lib
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.exp
+*.iobj
+*.ipdb
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.VC.db
+*.VC.VC.opendb
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db-shm
+*.VC.db-wal
+
+# MSBuild / logs
+*.log
+*.lastbuildstate
+*.recipe
+
+# Other
+*.tmp
+*.temp
+*~
+Thumbs.db
+Desktop.ini
+
+.agents
